@@ -62,7 +62,6 @@
                                   <fo:block>
                                   </fo:block>
                                </fo:table-cell>
-                            </fo:table-row>
                               <fo:table-cell>
                                   <fo:block>
                                     <fo:external-graphic src="url()" content-width="4cm">
@@ -76,6 +75,8 @@
                                   <fo:block>
                                   </fo:block>
                                </fo:table-cell>
+                                        </fo:table-row>
+
                           </fo:table-body>
                         </fo:table>
                       </fo:block>
