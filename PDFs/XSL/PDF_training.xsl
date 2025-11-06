@@ -76,7 +76,7 @@
                                   <fo:block>
                                   </fo:block>
                                </fo:table-cell>
-                          <fo:table-body>
+                          </fo:table-body>
                         </fo:table>
                       </fo:block>
                 </fo:static-content>
