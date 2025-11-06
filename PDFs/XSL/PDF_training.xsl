@@ -97,7 +97,9 @@
 
                 <!-- ==== BODY FLOW - MAIN CONTENTS ==== -->
                 <fo:flow flow-name="xsl-region-body" font-size="11pt" font-family="Helvetica" color="rgb(0,0,0)">
-				</fo:flow>
+				<fo:block>
+                </fo:block>
+                </fo:flow>
 
             </fo:page-sequence>
         </fo:root>
