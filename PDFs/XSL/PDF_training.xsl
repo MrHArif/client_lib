@@ -58,10 +58,6 @@
                                     <xsl:value-of select="/hash/own_organisation/main_address"/>
                                   </fo:block>
                                </fo:table-cell>
-                               <fo:table-cell>
-                                  <fo:block>
-                                  </fo:block>
-                               </fo:table-cell>
                               <fo:table-cell>
                                   <fo:block>
                                     <fo:external-graphic src="url()" content-width="4cm">
@@ -71,12 +67,7 @@
                                     </fo:external-graphic>
                                   </fo:block>
                                </fo:table-cell>
-                               <fo:table-cell>
-                                  <fo:block>
-                                  </fo:block>
-                               </fo:table-cell>
-                                        </fo:table-row>
-
+                            </fo:table-row>
                           </fo:table-body>
                         </fo:table>
                       </fo:block>
