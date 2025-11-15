@@ -32,6 +32,8 @@
  *       THE SOFTWARE.   
  */
 
+global $exit_error;
+global $exit_ok;
 $exit_error = 1;
 $exit_ok = 0;
 
